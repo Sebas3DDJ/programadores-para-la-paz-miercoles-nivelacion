@@ -1,0 +1,4 @@
+Repositorio: Es un espacio en la nube donde se guardan los archivos para colaboración mutua
+Commit: es el comando implementado para registrar los comentarios después de realizar 
+modificaciones a un archivo
+Push: es el comando git que me permite hacer el cargue de mis trabajos al repositorio que estoy trabajando
